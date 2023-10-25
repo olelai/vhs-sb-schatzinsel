@@ -327,7 +327,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "map.tmj"
+          "value": "map.tmj#entry-from-technikraum"
         }
       ],
       "x": 0,
@@ -1491,7 +1491,7 @@
     {
       "columns": 8,
       "firstgid": 1,
-      "image": "technikraum-chunk-1-ec08d78a.png",
+      "image": "technikraum-chunk-1-8ab28c20.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
