@@ -1661,7 +1661,7 @@
     {
       "columns": 8,
       "firstgid": 1,
-      "image": "technikraum-chunk-1-1b8b35ba.png",
+      "image": "technikraum-chunk-1-3274ec02.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -1672,6 +1672,16 @@
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
+        {
+          "id": 0,
+          "properties": [
+            {
+              "name": "start",
+              "type": "string",
+              "value": "entry"
+            }
+          ]
+        },
         {
           "id": 1,
           "properties": [
