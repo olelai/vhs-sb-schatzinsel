@@ -147,7 +147,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":78,
-         "name":"ruhezonen",
+         "name":"ruhezonen & audios",
          "opacity":1,
          "properties":[
                 {
@@ -656,7 +656,34 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":171.333333333333,
+                 "id":22,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":".\/campfire-sound"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96.6666666666667,
+                 "x":735.333333333333,
+                 "y":414
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -714,8 +741,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":79,
- "nextobjectid":20,
+ "nextlayerid":80,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
