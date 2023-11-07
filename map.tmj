@@ -675,7 +675,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/campfire-sound"
+                         "value":".\/campfire-sound.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
