@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.tmj#entry-from-technikraum"
+                 "value":".\/insel#entry-from-technikraum"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -159,7 +159,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"technikraum.tmj#entry"
+                 "value":".\/technikraum#entry"
                 }],
          "type":"tilelayer",
          "visible":true,
