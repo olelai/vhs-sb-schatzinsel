@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/insel"
+                 "value":".\/insel#entry-from-technikraum"
                 }],
          "type":"tilelayer",
          "visible":true,
