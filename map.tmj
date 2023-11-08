@@ -665,7 +665,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/olelai\/vhs-sb-schatzinsel\/blob\/d3577c26708b904a146ff5da4f1bf1a057aeab13\/campfire-sound.mp3"
+                         "value":"campfire-sound.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -673,17 +673,6 @@
                  "width":160,
                  "x":704,
                  "y":384
-                }, 
-                {
-                 "height":0,
-                 "id":36,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":677.333333333333,
-                 "y":393.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
