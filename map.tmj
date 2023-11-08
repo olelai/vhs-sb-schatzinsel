@@ -161,7 +161,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/olelai\/vhs-sb-schatzinsel\/blob\/956a9c65e7797f8363c06ca8b19eeff221b6694f\/campfire-sound.mp3"
+                         "value":"campfire-sound.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
