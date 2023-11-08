@@ -665,17 +665,17 @@
                         {
                          "name":"audioLoop",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"audioVolume",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/campfire-sound.mp3"
+                         "value":"https:\/\/github.com\/olelai\/vhs-sb-schatzinsel\/blob\/38789ae5a106d72e99cf091ebcc0e15bfd57e003\/campfire-sound.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
