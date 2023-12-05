@@ -324,7 +324,7 @@
                          "value":"campfire-sound.mp3"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":174.5,
                  "x":19,
