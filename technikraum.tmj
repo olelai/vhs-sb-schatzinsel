@@ -314,7 +314,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"loopAudio",
+                         "name":"audioLoop",
                          "type":"bool",
                          "value":true
                         }, 

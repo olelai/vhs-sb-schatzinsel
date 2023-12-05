@@ -616,7 +616,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"loopAudio",
+                         "name":"audioLoop",
                          "type":"bool",
                          "value":true
                         }, 
@@ -638,7 +638,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"loopAudio",
+                         "name":"audioLoop",
                          "type":"bool",
                          "value":true
                         }, 
@@ -826,7 +826,7 @@
                         }],
                  "properties":[
                         {
-                         "name":"loopAudio",
+                         "name":"audioLoop",
                          "type":"bool",
                          "value":true
                         }, 
@@ -1014,7 +1014,12 @@
                         }],
                  "properties":[
                         {
-                         "name":"loopAudio",
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
                          "type":"bool",
                          "value":true
                         }, 
