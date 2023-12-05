@@ -667,7 +667,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"ocean-sound.mp3"
+                         "value":"campfire-sound.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
