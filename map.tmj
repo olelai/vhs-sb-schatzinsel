@@ -700,6 +700,11 @@
                  "name":"",
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"loopAudio",
                          "type":"bool",
                          "value":true
