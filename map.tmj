@@ -673,11 +673,6 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"audioVolume",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"loopAudio",
                          "type":"bool",
                          "value":true
@@ -699,11 +694,6 @@
                  "id":39,
                  "name":"",
                  "properties":[
-                        {
-                         "name":"audioVolume",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"loopAudio",
                          "type":"bool",
@@ -908,20 +898,6 @@
                         }],
                  "id":9
                 }],
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":12,
-         "firstgid":1150,
-         "image":"tilesets\/vhs-WA-moebel-2.png",
-         "imageheight":224,
-         "imagewidth":384,
-         "margin":0,
-         "name":"gegenstaende 2",
-         "spacing":0,
-         "tilecount":84,
-         "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],
