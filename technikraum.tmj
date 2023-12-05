@@ -2163,7 +2163,7 @@
           "height": 146.5,
           "properties": [
             {
-              "name": "loopAudio",
+              "name": "audioLoop",
               "type": "bool",
               "value": true
             },
@@ -2355,7 +2355,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "technikraum-chunk-1-71692167.png",
+      "image": "technikraum-chunk-1-4c1637af.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
