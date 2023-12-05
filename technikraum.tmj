@@ -2174,7 +2174,7 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 174.5
         }
       ],
@@ -2355,7 +2355,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "technikraum-chunk-1-c6c66bf7.png",
+      "image": "technikraum-chunk-1-761fc4f3.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
