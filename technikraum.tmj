@@ -329,23 +329,6 @@
                  "width":150,
                  "x":19,
                  "y":53
-                }, 
-                {
-                 "height":124.5,
-                 "id":2,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"ocean-sound.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":138.5,
-                 "x":298,
-                 "y":132
                 }],
          "opacity":1,
          "type":"objectgroup",
