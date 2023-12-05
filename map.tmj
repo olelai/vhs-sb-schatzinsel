@@ -717,8 +717,8 @@
                         }, 
                         {
                          "name":"audioVolume",
-                         "type":"bool",
-                         "value":true
+                         "type":"float",
+                         "value":0.1
                         }, 
                         {
                          "name":"playAudio",
