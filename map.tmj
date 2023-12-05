@@ -743,6 +743,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"ocean-sound.mp3"
