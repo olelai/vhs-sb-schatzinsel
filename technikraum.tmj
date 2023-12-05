@@ -2176,24 +2176,6 @@
           "rotation": 0,
           "type": "area",
           "width": 150
-        },
-        {
-          "id": 2,
-          "name": "",
-          "visible": true,
-          "x": 298,
-          "y": 132,
-          "height": 124.5,
-          "properties": [
-            {
-              "name": "playAudio",
-              "type": "string",
-              "value": "ocean-sound.mp3"
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 138.5
         }
       ],
       "opacity": 1,
@@ -2373,7 +2355,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "technikraum-chunk-1-036e217e.png",
+      "image": "technikraum-chunk-1-37ec1ab7.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
