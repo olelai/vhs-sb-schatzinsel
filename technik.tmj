@@ -1390,7 +1390,36 @@
     },
     {
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": true,
+          "x": 20,
+          "y": 74.5,
+          "height": 223,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "campfire-sound.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "width": 112.5
+        }
+      ],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -1405,7 +1434,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "technik-chunk-1-537fa210.png",
+      "image": "technik-chunk-1-f75cc81a.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -1445,7 +1474,7 @@
   "height": 10,
   "infinite": false,
   "nextlayerid": 15,
-  "nextobjectid": 1,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
