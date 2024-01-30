@@ -287,7 +287,34 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":223,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"campfire-sound.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112.5,
+                 "x":20,
+                 "y":74.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -295,7 +322,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
