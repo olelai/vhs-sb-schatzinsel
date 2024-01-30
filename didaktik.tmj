@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/insel#entry-from-technik"
+                 "value":".\/insel#entry-from-didaktik"
                 }],
          "type":"tilelayer",
          "visible":true,
