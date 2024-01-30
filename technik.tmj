@@ -66,6 +66,70 @@
          "y":0
         }, 
         {
+         "id":12,
+         "layers":[
+                {
+                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 1318, 1318, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                 "height":10,
+                 "id":11,
+                 "name":"link-hybride-trainings",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.taskcards.de\/#\/board\/b6b85842-202b-4127-82f6-d5e57cac2e38"
+                        }],
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":10,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 1318, 1318, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                 "height":10,
+                 "id":13,
+                 "name":"link-technik",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.taskcards.de\/#\/board\/56b285d1-0a61-41a3-b929-41b5d7148ba0?token=f8c3c733-acc9-47c1-8e2a-4b01d04c3d8d"
+                        }],
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":10,
+                 "x":0,
+                 "y":0
+                }],
+         "name":"links",
+         "opacity":1,
+         "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[688, 689, 690, 691, 692, 693, 688, 689, 690, 691,
             711, 712, 713, 714, 715, 716, 711, 712, 713, 714,
             688, 689, 690, 691, 692, 693, 688, 689, 690, 691,
@@ -190,7 +254,8 @@
          "width":10,
          "x":0,
          "y":0
-        }, 
+        },
+    
         {
          "draworder":"topdown",
          "id":2,
@@ -202,7 +267,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":11,
+ "nextlayerid":14,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
