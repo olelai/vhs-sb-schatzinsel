@@ -651,7 +651,7 @@
          "name":"weihnachtsdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
@@ -718,7 +718,7 @@
                         {
                          "name":"audioVolume",
                          "type":"float",
-                         "value":0.2
+                         "value":0.1
                         }, 
                         {
                          "name":"playAudio",
@@ -855,19 +855,19 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":83,
+ "nextlayerid":84,
  "nextobjectid":55,
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"mapCopyright",
+         "name":"audioCopyright",
          "type":"string",
-         "value":"Credits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Pixabay Content licence https:\/\/pixabay.com\/service\/license-summary\/"
         }, 
         {
-         "name":"mapDescription",
+         "name":"mapCopyright",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Wiebke Wetzel CC0"
         }, 
         {
          "name":"mapImage",
@@ -877,7 +877,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Insel"
         }, 
         {
          "name":"script",
@@ -933,6 +933,12 @@
          "imagewidth":736,
          "margin":0,
          "name":"vhs-WA-stuff-1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Wiebke Wetzel CC0"
+                }],
          "spacing":0,
          "tilecount":345,
          "tileheight":32,
@@ -999,6 +1005,16 @@
          "spacing":0,
          "tilecount":143,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Wiebke Wetzel CC0"
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],
