@@ -33,7 +33,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            0, 0, 0, 0, 1315, 1315, 0, 0, 0, 0],
          "height":10,
          "id":14,
          "name":"exit-zu-insel",
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/insel#entry-from-technikraum"
+                 "value":".\/insel#entry-from-technik"
                 }],
          "type":"tilelayer",
          "visible":true,
