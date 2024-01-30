@@ -1416,7 +1416,7 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 112.5
         },
         {
@@ -1445,7 +1445,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "technik-chunk-1-c5bce2d2.png",
+      "image": "technik-chunk-1-378cc783.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
