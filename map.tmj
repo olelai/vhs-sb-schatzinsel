@@ -217,7 +217,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/technikraum#entry"
+                         "value":".\/technik#entry"
                         }],
                  "type":"tilelayer",
                  "visible":true,
