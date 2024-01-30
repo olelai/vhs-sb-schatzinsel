@@ -672,6 +672,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"campfire-sound.mp3"
@@ -692,6 +697,11 @@
                          "name":"audioLoop",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0
                         }, 
                         {
                          "name":"playAudio",
@@ -743,6 +753,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"ocean-sound.mp3"
@@ -763,6 +778,11 @@
                          "name":"audioLoop",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.1
                         }, 
                         {
                          "name":"playAudio",
@@ -787,6 +807,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"ocean-sound.mp3"
@@ -795,8 +820,8 @@
                  "type":"area",
                  "visible":true,
                  "width":268,
-                 "x":988,
-                 "y":368
+                 "x":990,
+                 "y":370
                 }],
          "opacity":1,
          "type":"objectgroup",
