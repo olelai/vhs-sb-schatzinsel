@@ -1225,18 +1225,18 @@
         51,
         0,
         0,
-        51,
-        51,
-        0,
-        0,
-        0,
-        0,
         52,
-        52,
+        53,
         0,
         0,
-        52,
-        52,
+        0,
+        0,
+        54,
+        54,
+        0,
+        0,
+        55,
+        56,
         0,
         0,
         0,
@@ -1298,7 +1298,7 @@
         0,
         0,
         0,
-        53,
+        57,
         0,
         0,
         0,
@@ -1445,35 +1445,35 @@
     {
       "columns": 8,
       "firstgid": 1,
-      "image": "sprachen-chunk-1-a436afed.png",
+      "image": "sprachen-chunk-1-e368caa7.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
       "name": "Chunk 1",
       "properties": [],
       "spacing": 0,
-      "tilecount": 56,
+      "tilecount": 60,
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
         {
-          "id": 52,
+          "id": 56,
           "animation": [
             {
               "duration": 120,
-              "tileid": 52
+              "tileid": 56
             },
             {
               "duration": 120,
-              "tileid": 53
+              "tileid": 57
             },
             {
               "duration": 120,
-              "tileid": 54
+              "tileid": 58
             },
             {
               "duration": 120,
-              "tileid": 55
+              "tileid": 59
             }
           ]
         }
