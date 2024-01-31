@@ -477,7 +477,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "./insel#entry-from-leuchtturm"
+          "value": "./leuchtturm-unten#entry-from-oben"
         }
       ],
       "x": 0,
@@ -1766,7 +1766,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-5488b687.png",
+      "image": "leuchtturm-oben-chunk-1-b835383e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1781,7 +1781,7 @@
     {
       "columns": 4,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-5488b687.png",
+      "image": "leuchtturm-oben-chunk-2-b835383e.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
