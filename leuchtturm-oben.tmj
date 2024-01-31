@@ -1751,6 +1751,7 @@
       "visible": true,
       "draworder": "topdown",
       "id": 9,
+      "class": "area",
       "x": 0,
       "y": 0
     }
@@ -1760,7 +1761,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-17c3b302.png",
+      "image": "leuchtturm-oben-chunk-1-84aed056.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1775,7 +1776,7 @@
     {
       "columns": 4,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-17c3b302.png",
+      "image": "leuchtturm-oben-chunk-2-84aed056.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
