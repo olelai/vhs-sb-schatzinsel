@@ -52,7 +52,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/insel#entry-from-leuchtturm"
+                 "value":".\/leuchtturm-unten#entry-from-oben"
                 }],
          "type":"tilelayer",
          "visible":true,
