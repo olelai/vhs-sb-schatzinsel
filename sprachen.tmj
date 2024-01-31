@@ -578,7 +578,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.taskcards.de/#/board/b6b85842-202b-4127-82f6-https://www.taskcards.de/#/board/d6b7f008-a44d-4a5a-b2b0-93796b51812e?token=61cd4081-126e-464a-a004-a08ebf7f01c2"
+              "value": "https://www.taskcards.de/#/board/d6b7f008-a44d-4a5a-b2b0-93796b51812e?token=61cd4081-126e-464a-a004-a08ebf7f01c2"
             }
           ],
           "x": 0,
@@ -1445,7 +1445,7 @@
     {
       "columns": 8,
       "firstgid": 1,
-      "image": "sprachen-chunk-1-2560d422.png",
+      "image": "sprachen-chunk-1-a436afed.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
