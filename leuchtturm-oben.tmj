@@ -191,6 +191,7 @@
          "y":0
         }, 
         {
+         "class":"area",
          "draworder":"topdown",
          "id":9,
          "name":"floorLayer",
