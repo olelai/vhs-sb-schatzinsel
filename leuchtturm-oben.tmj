@@ -250,16 +250,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"vhs-schatzinsel"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Dr\u00fccken Sie die Leertaste, um die Jitsi-Konferenz zu betreten."
                         }],
                  "rotation":0,
                  "type":"area",
