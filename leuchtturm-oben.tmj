@@ -253,8 +253,13 @@
                         }, 
                         {
                          "name":"jitsiTrigger",
-                         "type":"bool",
-                         "value":true
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccken Sie die Leertaste, um die Jitsi-Konferenz zu betreten."
                         }],
                  "rotation":0,
                  "type":"area",
