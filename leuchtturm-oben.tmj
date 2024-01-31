@@ -1737,8 +1737,13 @@
             },
             {
               "name": "jitsiTrigger",
-              "type": "bool",
-              "value": true
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "jitsiTriggerMessage",
+              "type": "string",
+              "value": "Drücken Sie die Leertaste, um die Jitsi-Konferenz zu betreten."
             }
           ],
           "rotation": 0,
@@ -1761,7 +1766,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-84aed056.png",
+      "image": "leuchtturm-oben-chunk-1-5488b687.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1776,7 +1781,7 @@
     {
       "columns": 4,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-84aed056.png",
+      "image": "leuchtturm-oben-chunk-2-5488b687.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
