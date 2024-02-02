@@ -1262,21 +1262,7 @@
             0,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            5,
             0,
             5,
             0,
@@ -1291,10 +1277,24 @@
             0,
             0,
             0,
+            5,
+            5,
+            5,
             0,
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            5,
+            5,
+            5,
             0,
             0,
             0,
@@ -2416,24 +2416,6 @@
       "name": "floorLayer",
       "objects": [
         {
-          "id": 1,
-          "name": "",
-          "visible": true,
-          "x": 219,
-          "y": 398,
-          "height": 84,
-          "properties": [
-            {
-              "name": "silent",
-              "type": "bool",
-              "value": true
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 62
-        },
-        {
           "id": 4,
           "name": "",
           "visible": true,
@@ -2450,7 +2432,7 @@
             {
               "name": "audioVolume",
               "type": "float",
-              "value": 0.1
+              "value": 0.2
             },
             {
               "name": "playAudio",
@@ -2477,7 +2459,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-unten-chunk-1-4017148d.png",
+      "image": "leuchtturm-unten-chunk-1-fac0b359.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2503,7 +2485,7 @@
     {
       "columns": 4,
       "firstgid": 257,
-      "image": "leuchtturm-unten-chunk-2-4017148d.png",
+      "image": "leuchtturm-unten-chunk-2-fac0b359.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
