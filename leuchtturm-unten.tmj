@@ -2477,7 +2477,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-unten-chunk-1-2a60a1d4.png",
+      "image": "leuchtturm-unten-chunk-1-44714889.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2487,12 +2487,23 @@
       "tilecount": 256,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     },
     {
       "columns": 4,
       "firstgid": 257,
-      "image": "leuchtturm-unten-chunk-2-2a60a1d4.png",
+      "image": "leuchtturm-unten-chunk-2-44714889.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,

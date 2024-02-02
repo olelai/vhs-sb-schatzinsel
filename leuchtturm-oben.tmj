@@ -1756,7 +1756,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-9e1ecc0e.png",
+      "image": "leuchtturm-oben-chunk-1-fa88f962.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1766,12 +1766,23 @@
       "tilecount": 256,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     },
     {
       "columns": 4,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-9e1ecc0e.png",
+      "image": "leuchtturm-oben-chunk-2-fa88f962.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
