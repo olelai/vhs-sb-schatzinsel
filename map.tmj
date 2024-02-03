@@ -502,7 +502,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/sport#entry"
+                         "value":".\/sport-&-gesundheit#entry"
                         }],
                  "type":"tilelayer",
                  "visible":true,
