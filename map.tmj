@@ -445,7 +445,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/kultur#entry"
+                         "value":".\/kultur-&-gesellschaft#entry"
                         }],
                  "type":"tilelayer",
                  "visible":true,
