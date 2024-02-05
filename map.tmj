@@ -1574,7 +1574,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"playVideo",
+                         "name":"playAudio",
                          "type":"string",
                          "value":"LittleNemo.mp4"
                         }],
