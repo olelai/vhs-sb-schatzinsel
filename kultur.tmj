@@ -5987,7 +5987,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "kultur-chunk-1-f8c2101a.png",
+      "image": "kultur-chunk-1-9bb5df39.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -5998,6 +5998,16 @@
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
         {
           "id": 114,
           "animation": [
