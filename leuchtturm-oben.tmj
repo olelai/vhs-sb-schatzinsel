@@ -225,27 +225,17 @@
                 {
                  "height":251.044639407298,
                  "id":6,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiLeuchtturm",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiLeuchtturm"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":19.6787960075397,
                  "type":"area",
