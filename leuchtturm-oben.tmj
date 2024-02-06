@@ -301,10 +301,6 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        1,
         1,
         1,
         0,
@@ -336,6 +332,8 @@
         0,
         0,
         0,
+        0,
+        1,
         1,
         1,
         1,
@@ -371,6 +369,8 @@
         1,
         1,
         1,
+        1,
+        1,
         0,
         0,
         0,
@@ -399,6 +399,12 @@
         0,
         0,
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -427,15 +433,9 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -3955,58 +3955,12 @@
       "name": "floorLayer",
       "objects": [
         {
-          "id": 5,
+          "id": 6,
           "name": "jitsiMeetingRoom",
           "visible": true,
-          "x": 322,
-          "y": 291,
-          "height": 0,
-          "polygon": [
-            {
-              "x": 0,
-              "y": 0
-            },
-            {
-              "x": 127,
-              "y": 0
-            },
-            {
-              "x": 128,
-              "y": -66
-            },
-            {
-              "x": 259,
-              "y": -66
-            },
-            {
-              "x": 259,
-              "y": 92
-            },
-            {
-              "x": 374,
-              "y": 94
-            },
-            {
-              "x": 431,
-              "y": -33
-            },
-            {
-              "x": 384,
-              "y": -164
-            },
-            {
-              "x": 201,
-              "y": -228
-            },
-            {
-              "x": 60,
-              "y": -186
-            },
-            {
-              "x": -16,
-              "y": -88
-            }
-          ],
+          "x": 345.111842187292,
+          "y": -5.28814525363694,
+          "height": 251.044639407298,
           "properties": [
             {
               "name": "focusable",
@@ -4016,7 +3970,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "vhs-schatzinsel"
+              "value": "MeetingRoom"
             },
             {
               "name": "jitsiTrigger",
@@ -4029,9 +3983,9 @@
               "value": 1
             }
           ],
-          "rotation": 0,
+          "rotation": 19.6787960075397,
           "type": "area",
-          "width": 0
+          "width": 482
         }
       ],
       "opacity": 1,
@@ -4049,7 +4003,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-3dba7968.png",
+      "image": "leuchtturm-oben-chunk-1-4cd8d3e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4075,7 +4029,7 @@
     {
       "columns": 6,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-3dba7968.png",
+      "image": "leuchtturm-oben-chunk-2-4cd8d3e0.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
@@ -4115,7 +4069,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 13,
-  "nextobjectid": 6,
+  "nextobjectid": 7,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
