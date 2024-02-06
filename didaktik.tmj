@@ -6487,7 +6487,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "didaktik-chunk-1-21f7d606.png",
+      "image": "didaktik-chunk-1-5c7b9aef.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -6498,6 +6498,16 @@
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
         {
           "id": 94,
           "animation": [

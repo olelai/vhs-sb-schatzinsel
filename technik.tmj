@@ -6980,7 +6980,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "technik-chunk-1-06a1e763.png",
+      "image": "technik-chunk-1-bf3ce746.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -6991,6 +6991,16 @@
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
+        {
+          "id": 2,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
         {
           "id": 129,
           "animation": [

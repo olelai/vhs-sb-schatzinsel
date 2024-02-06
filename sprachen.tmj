@@ -890,6 +890,7 @@
         0,
         0,
         0,
+        3,
         0,
         0,
         0,
@@ -921,6 +922,7 @@
         0,
         0,
         0,
+        3,
         0,
         0,
         0,
@@ -952,9 +954,7 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
+        3,
         0,
         0,
         0,
@@ -6487,7 +6487,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "sprachen-chunk-1-31c96e7b.png",
+      "image": "sprachen-chunk-1-8d30651e.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -6498,6 +6498,16 @@
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
         {
           "id": 95,
           "animation": [
