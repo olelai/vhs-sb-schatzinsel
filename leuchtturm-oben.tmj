@@ -3956,7 +3956,7 @@
       "objects": [
         {
           "id": 5,
-          "name": "",
+          "name": "jitsiMeetingRoom",
           "visible": true,
           "x": 322,
           "y": 291,
@@ -4009,9 +4009,24 @@
           ],
           "properties": [
             {
+              "name": "focusable",
+              "type": "bool",
+              "value": true
+            },
+            {
               "name": "jitsiRoom",
               "type": "string",
               "value": "vhs-schatzinsel"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "zoom_margin",
+              "type": "float",
+              "value": 1
             }
           ],
           "rotation": 0,
@@ -4034,7 +4049,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-03b90579.png",
+      "image": "leuchtturm-oben-chunk-1-3dba7968.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4060,7 +4075,7 @@
     {
       "columns": 6,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-03b90579.png",
+      "image": "leuchtturm-oben-chunk-2-3dba7968.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
