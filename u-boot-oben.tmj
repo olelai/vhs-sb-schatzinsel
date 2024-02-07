@@ -1980,7 +1980,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "./u-boot-kikusch#entry-from-oben"
+          "value": "./kikusch#entry-from-oben"
         }
       ],
       "x": 0,
@@ -4979,7 +4979,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "u-boot-oben-chunk-1-d8d41179.png",
+      "image": "u-boot-oben-chunk-1-5c567fdd.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
