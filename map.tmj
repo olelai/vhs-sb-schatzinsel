@@ -616,7 +616,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/u-boot-jugend-familie#entry"
+                         "value":".\/jugend-familie#entry"
                         }],
                  "type":"tilelayer",
                  "visible":true,

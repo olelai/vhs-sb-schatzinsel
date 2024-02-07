@@ -110,7 +110,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/u-boot-kikusch#entry-from-oben"
+                 "value":".\/kikusch#entry-from-oben"
                 }],
          "type":"tilelayer",
          "visible":true,
