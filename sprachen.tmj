@@ -396,9 +396,31 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":112.5,
+                 "width":279.5,
                  "x":372,
                  "y":138.5
+                }, 
+                {
+                 "height":176.700671389941,
+                 "id":3,
+                 "name":"jitsiLeuchtturm",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsisprachen"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.10885884488275,
+                 "type":"area",
+                 "visible":true,
+                 "width":294.348007502811,
+                 "x":365.399257431678,
+                 "y":193.445084564062
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -407,7 +429,7 @@
          "y":0
         }],
  "nextlayerid":18,
- "nextobjectid":3,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
