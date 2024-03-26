@@ -7290,7 +7290,7 @@
           "x": 305.5,
           "y": 57.5,
           "ellipse": true,
-          "height": 254.5,
+          "height": 381,
           "properties": [
             {
               "name": "audioLoop",
@@ -7310,7 +7310,7 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 264.5
+          "width": 381
         }
       ],
       "opacity": 1,
@@ -7327,7 +7327,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-unten-chunk-1-3838eede.png",
+      "image": "leuchtturm-unten-chunk-1-d7a0b970.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7353,7 +7353,7 @@
     {
       "columns": 6,
       "firstgid": 257,
-      "image": "leuchtturm-unten-chunk-2-3838eede.png",
+      "image": "leuchtturm-unten-chunk-2-d7a0b970.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
@@ -7393,7 +7393,7 @@
   "height": 17,
   "infinite": false,
   "nextlayerid": 17,
-  "nextobjectid": 5,
+  "nextobjectid": 6,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

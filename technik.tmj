@@ -6941,9 +6941,9 @@
           "id": 1,
           "name": "",
           "visible": true,
-          "x": 372,
+          "x": 365.5,
           "y": 138.5,
-          "height": 223,
+          "height": 91,
           "properties": [
             {
               "name": "audioLoop",
@@ -6963,7 +6963,53 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 112.5
+          "width": 116
+        },
+        {
+          "id": 3,
+          "name": "jitsiTechnik",
+          "visible": true,
+          "x": 363.3,
+          "y": 234.4115,
+          "height": 136.177021658807,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiTechnik"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 115.878155123737
+        },
+        {
+          "id": 4,
+          "name": "jitsiTechnik",
+          "visible": true,
+          "x": 556.807649576032,
+          "y": 202.938091987978,
+          "height": 136.177,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiTechnik"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 104.380825162263
         }
       ],
       "opacity": 1,
@@ -6980,7 +7026,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "technik-chunk-1-bcc4b568.png",
+      "image": "technik-chunk-1-60f55c75.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -7030,7 +7076,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 18,
-  "nextobjectid": 3,
+  "nextobjectid": 5,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

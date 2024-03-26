@@ -6948,9 +6948,9 @@
           "id": 1,
           "name": "",
           "visible": true,
-          "x": 372,
-          "y": 138.5,
-          "height": 223,
+          "x": 365.666666666667,
+          "y": 97.1666666666667,
+          "height": 90,
           "properties": [
             {
               "name": "audioLoop",
@@ -6970,7 +6970,53 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 112.5
+          "width": 293
+        },
+        {
+          "id": 3,
+          "name": "jitsiDidaktik",
+          "visible": true,
+          "x": 363.5315,
+          "y": 205.161,
+          "height": 167.678,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiDidaktik"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 117.937
+        },
+        {
+          "id": 4,
+          "name": "jitsiDidaktik",
+          "visible": true,
+          "x": 542.5315,
+          "y": 206.661,
+          "height": 112.672399429051,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiDidaktik"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 117.937
         }
       ],
       "opacity": 1,
@@ -6987,7 +7033,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "didaktik-chunk-1-e2561d25.png",
+      "image": "didaktik-chunk-1-a1ff3bc1.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -7037,7 +7083,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 18,
-  "nextobjectid": 3,
+  "nextobjectid": 5,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

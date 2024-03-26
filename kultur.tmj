@@ -5948,9 +5948,9 @@
           "id": 1,
           "name": "",
           "visible": true,
-          "x": 372,
-          "y": 138.5,
-          "height": 223,
+          "x": 361.833333333333,
+          "y": 124.833333333333,
+          "height": 64.3333333333333,
           "properties": [
             {
               "name": "audioLoop",
@@ -5970,7 +5970,53 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 112.5
+          "width": 296.5
+        },
+        {
+          "id": 3,
+          "name": "jitsiKultur",
+          "visible": true,
+          "x": 545.313279015167,
+          "y": 198.975151713636,
+          "height": 172.083837629038,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiKultur"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 117.849451673454
+        },
+        {
+          "id": 4,
+          "name": "jitsiKultur",
+          "visible": true,
+          "x": 360.5315,
+          "y": 199.661,
+          "height": 167.678,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiKultur"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 117.937
         }
       ],
       "opacity": 1,
@@ -5987,7 +6033,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "kultur-chunk-1-421e9dde.png",
+      "image": "kultur-chunk-1-68109b70.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -6037,7 +6083,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 17,
-  "nextobjectid": 3,
+  "nextobjectid": 5,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

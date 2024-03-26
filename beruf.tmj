@@ -5948,9 +5948,9 @@
           "id": 1,
           "name": "",
           "visible": true,
-          "x": 372,
-          "y": 138.5,
-          "height": 223,
+          "x": 364,
+          "y": 77,
+          "height": 113,
           "properties": [
             {
               "name": "audioLoop",
@@ -5970,7 +5970,53 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 112.5
+          "width": 296.5
+        },
+        {
+          "id": 3,
+          "name": "jitsiBeruf",
+          "visible": true,
+          "x": 362.504889963032,
+          "y": 219.166649293023,
+          "height": 153.672325428126,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiBeruf"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 114.963604670285
+        },
+        {
+          "id": 4,
+          "name": "jitsiBeruf",
+          "visible": true,
+          "x": 548.004889963032,
+          "y": 206.166649293023,
+          "height": 104.179064584602,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiBeruf"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 114.963604670285
         }
       ],
       "opacity": 1,
@@ -5987,7 +6033,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "beruf-chunk-1-e57b9e50.png",
+      "image": "beruf-chunk-1-7a85f01c.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -6037,7 +6083,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 17,
-  "nextobjectid": 3,
+  "nextobjectid": 5,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

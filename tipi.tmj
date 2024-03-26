@@ -4946,7 +4946,54 @@
     },
     {
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "id": 2,
+          "name": "jitsiTipi",
+          "visible": true,
+          "x": 362.533468529559,
+          "y": 160.624904685233,
+          "height": 123.701828750968,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiTipi"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 119.350549712004
+        },
+        {
+          "id": 3,
+          "name": "jitsiTipi",
+          "visible": true,
+          "x": 574.311646758114,
+          "y": 190.896376479711,
+          "height": 103.208186177771,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiTipi"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 116.846270378658
+        }
+      ],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -4961,7 +5008,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tipi-chunk-1-18c87432.png",
+      "image": "tipi-chunk-1-3f5c1df4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4987,7 +5034,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "tipi-chunk-2-18c87432.png",
+      "image": "tipi-chunk-2-3f5c1df4.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -5005,7 +5052,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 14,
-  "nextobjectid": 1,
+  "nextobjectid": 4,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

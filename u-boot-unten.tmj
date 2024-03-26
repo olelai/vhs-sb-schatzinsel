@@ -4464,7 +4464,31 @@
     },
     {
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "id": 1,
+          "name": "jitsiUBootUnten",
+          "visible": true,
+          "x": 505.635015709959,
+          "y": 254.732549170161,
+          "height": 135.792054566461,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiUBootUnten"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 168.000241315882
+        }
+      ],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -4479,7 +4503,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "u-boot-unten-chunk-1-ac7bcf66.png",
+      "image": "u-boot-unten-chunk-1-ae7e83be.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -4508,7 +4532,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 13,
-  "nextobjectid": 1,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

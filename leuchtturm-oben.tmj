@@ -3955,12 +3955,50 @@
       "name": "floorLayer",
       "objects": [
         {
-          "id": 6,
-          "name": "jitsiLeuchtturm",
+          "id": 8,
+          "name": "jitisLeuchtturm",
           "visible": true,
-          "x": 345.111842187292,
-          "y": -5.28814525363694,
-          "height": 251.044639407298,
+          "x": 316,
+          "y": 299,
+          "height": 0,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 131,
+              "y": -1
+            },
+            {
+              "x": 175,
+              "y": -100
+            },
+            {
+              "x": 249,
+              "y": -101
+            },
+            {
+              "x": 267,
+              "y": -46
+            },
+            {
+              "x": 267,
+              "y": 114
+            },
+            {
+              "x": 421,
+              "y": 114
+            },
+            {
+              "x": 420,
+              "y": -239
+            },
+            {
+              "x": 1,
+              "y": -239
+            }
+          ],
           "properties": [
             {
               "name": "jitsiRoom",
@@ -3973,9 +4011,9 @@
               "value": "onaction"
             }
           ],
-          "rotation": 19.6787960075397,
+          "rotation": 0,
           "type": "area",
-          "width": 482
+          "width": 0
         }
       ],
       "opacity": 1,
@@ -3993,7 +4031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "leuchtturm-oben-chunk-1-f02a8a93.png",
+      "image": "leuchtturm-oben-chunk-1-1154d05f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4019,7 +4057,7 @@
     {
       "columns": 6,
       "firstgid": 257,
-      "image": "leuchtturm-oben-chunk-2-f02a8a93.png",
+      "image": "leuchtturm-oben-chunk-2-1154d05f.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
@@ -4059,7 +4097,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 13,
-  "nextobjectid": 7,
+  "nextobjectid": 9,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

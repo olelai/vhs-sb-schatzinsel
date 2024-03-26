@@ -5948,9 +5948,9 @@
           "id": 1,
           "name": "",
           "visible": true,
-          "x": 372,
+          "x": 366.5,
           "y": 138.5,
-          "height": 223,
+          "height": 74.5,
           "properties": [
             {
               "name": "audioLoop",
@@ -5970,7 +5970,7 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 283.166666666667
+          "width": 112.166666666667
         },
         {
           "id": 3,
@@ -6033,7 +6033,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "sport-chunk-1-52b71b3b.png",
+      "image": "sport-chunk-1-457ae283.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,

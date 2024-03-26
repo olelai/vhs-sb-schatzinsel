@@ -3960,7 +3960,31 @@
     },
     {
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "id": 1,
+          "name": "jitsiSegelboot",
+          "visible": true,
+          "x": 453.817670465138,
+          "y": 232.892588023942,
+          "height": 110.792824635486,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiSegelboot"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 144.344320797064
+        }
+      ],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -3975,7 +3999,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "segelboot-chunk-1-ff3838fa.png",
+      "image": "segelboot-chunk-1-461dbb66.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -4004,7 +4028,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 11,
-  "nextobjectid": 1,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
