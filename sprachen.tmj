@@ -401,14 +401,14 @@
                  "y":138.5
                 }, 
                 {
-                 "height":176.700671389941,
+                 "height":148.176973527961,
                  "id":3,
-                 "name":"jitsiLeuchtturm",
+                 "name":"jitsiSprachen",
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"jitsisprachen"
+                         "value":"jitsiSprachen"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -418,9 +418,9 @@
                  "rotation":0.10885884488275,
                  "type":"area",
                  "visible":true,
-                 "width":294.348007502811,
-                 "x":365.399257431678,
-                 "y":193.445084564062
+                 "width":118.399623655653,
+                 "x":361.346978379484,
+                 "y":221.961134790773
                 }],
          "opacity":1,
          "type":"objectgroup",

@@ -364,9 +364,53 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":112.5,
+                 "width":283.166666666667,
                  "x":372,
                  "y":138.5
+                }, 
+                {
+                 "height":148.177,
+                 "id":3,
+                 "name":"jitsiSport",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSport"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":118.4,
+                 "x":363.3,
+                 "y":219.9115
+                }, 
+                {
+                 "height":148.177,
+                 "id":4,
+                 "name":"jitsiSport",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSport"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":118.4,
+                 "x":543.3,
+                 "y":188.4115
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -375,7 +419,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":3,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
