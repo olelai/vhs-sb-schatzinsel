@@ -6474,16 +6474,16 @@
         },
         {
           "id": 3,
-          "name": "jitsiLeuchtturm",
+          "name": "jitsiSprachen",
           "visible": true,
-          "x": 365.399257431678,
-          "y": 193.445084564062,
-          "height": 176.700671389941,
+          "x": 361.346978379484,
+          "y": 221.961134790773,
+          "height": 148.176973527961,
           "properties": [
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "jitsisprachen"
+              "value": "jitsiSprachen"
             },
             {
               "name": "jitsiTrigger",
@@ -6493,7 +6493,7 @@
           ],
           "rotation": 0.10885884488275,
           "type": "area",
-          "width": 294.348007502811
+          "width": 118.399623655653
         }
       ],
       "opacity": 1,
@@ -6510,7 +6510,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "sprachen-chunk-1-e4ad0013.png",
+      "image": "sprachen-chunk-1-7bd6a743.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,

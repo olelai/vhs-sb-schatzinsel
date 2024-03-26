@@ -5970,7 +5970,53 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 112.5
+          "width": 283.166666666667
+        },
+        {
+          "id": 3,
+          "name": "jitsiSport",
+          "visible": true,
+          "x": 363.3,
+          "y": 219.9115,
+          "height": 148.177,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiSport"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 118.4
+        },
+        {
+          "id": 4,
+          "name": "jitsiSport",
+          "visible": true,
+          "x": 543.3,
+          "y": 188.4115,
+          "height": 148.177,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "jitsiSport"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0.108859,
+          "type": "area",
+          "width": 118.4
         }
       ],
       "opacity": 1,
@@ -5987,7 +6033,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "sport-chunk-1-0b85afe6.png",
+      "image": "sport-chunk-1-52b71b3b.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -6037,7 +6083,7 @@
   "height": 15,
   "infinite": false,
   "nextlayerid": 17,
-  "nextobjectid": 3,
+  "nextobjectid": 5,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
