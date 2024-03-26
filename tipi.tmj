@@ -278,7 +278,51 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":123.701828750968,
+                 "id":2,
+                 "name":"jitsiTipi",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiTipi"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":119.350549712004,
+                 "x":362.533468529559,
+                 "y":160.624904685233
+                }, 
+                {
+                 "height":103.208186177771,
+                 "id":3,
+                 "name":"jitsiTipi",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiTipi"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":116.846270378658,
+                 "x":574.311646758114,
+                 "y":190.896376479711
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -286,7 +330,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":1,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

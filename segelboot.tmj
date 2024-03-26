@@ -226,7 +226,29 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":110.792824635486,
+                 "id":1,
+                 "name":"jitsiSegelboot",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSegelboot"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":144.344320797064,
+                 "x":453.817670465138,
+                 "y":232.892588023942
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -234,7 +256,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

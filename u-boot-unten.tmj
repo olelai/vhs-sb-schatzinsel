@@ -262,7 +262,29 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":135.792054566461,
+                 "id":1,
+                 "name":"jitsiUBootUnten",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiUBootUnten"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":168.000241315882,
+                 "x":505.635015709959,
+                 "y":254.732549170161
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -270,7 +292,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

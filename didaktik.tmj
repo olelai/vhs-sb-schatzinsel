@@ -406,7 +406,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":223,
+                 "height":90,
                  "id":1,
                  "name":"",
                  "properties":[
@@ -428,9 +428,53 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":112.5,
-                 "x":372,
-                 "y":138.5
+                 "width":293,
+                 "x":365.666666666667,
+                 "y":97.1666666666667
+                }, 
+                {
+                 "height":167.678,
+                 "id":3,
+                 "name":"jitsiDidaktik",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiDidaktik"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":117.937,
+                 "x":363.5315,
+                 "y":205.161
+                }, 
+                {
+                 "height":112.672399429051,
+                 "id":4,
+                 "name":"jitsiDidaktik",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiDidaktik"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0.108859,
+                 "type":"area",
+                 "visible":true,
+                 "width":117.937,
+                 "x":542.5315,
+                 "y":206.661
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -439,7 +483,7 @@
          "y":0
         }],
  "nextlayerid":18,
- "nextobjectid":3,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

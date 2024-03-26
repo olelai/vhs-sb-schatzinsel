@@ -407,7 +407,7 @@
          "objects":[
                 {
                  "ellipse":true,
-                 "height":254.5,
+                 "height":381,
                  "id":4,
                  "name":"",
                  "properties":[
@@ -429,7 +429,7 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":264.5,
+                 "width":381,
                  "x":305.5,
                  "y":57.5
                 }],
@@ -440,7 +440,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":5,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
