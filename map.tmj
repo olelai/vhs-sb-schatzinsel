@@ -2128,7 +2128,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.vhs-sb.de\/advents-schnitzeljagd-station-1-von-8\/"
+                         "value":"https:\/\/www.vhs-sb.de"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2246,7 +2246,7 @@
          "y":0
         }],
  "nextlayerid":119,
- "nextobjectid":62,
+ "nextobjectid":63,
  "orientation":"orthogonal",
  "properties":[
         {
